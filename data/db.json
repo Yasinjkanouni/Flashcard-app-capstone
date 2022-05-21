@@ -2,8 +2,8 @@
   "decks": [
     {
       "id": 1,
-      "name": "React",
-      "description": "React is a single page app. "
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
     },
     {
       "name": "React Router",
